@@ -133,7 +133,7 @@ a:hover {
 
 .bg {
     background-size: cover;
-    height: calc(100vh);
+    height: 100vh;
     background-image: url(../images/image_1.jpg);
     background-position: center;
 }
